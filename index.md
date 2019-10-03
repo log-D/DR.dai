@@ -2,6 +2,9 @@
 
 
 
+
+<body bgcolor="lavender">
+
 <h1 align="center">欢迎来到我的主页</h1>
 
 虽然现在很简陋，但是我我尽我能力去完善这个网页的
@@ -16,7 +19,7 @@
 
 *<a href="https://kan.jinbaozy.com/m/vodplayhtml/106-1-65.html" target="_blank">天行九歌</a>
 
-*<a href="www.baiduwp.com" target="_blank">百度云链接解析不限速</a>
+*<a href="https://www.baiduwp.com" target="_blank">百度云链接解析不限速</a>
 
 😏😏😏😏
 
