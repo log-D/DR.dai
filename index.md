@@ -2,8 +2,9 @@
 
 <h1 align="center">欢迎来到我的主页</h1>
 
-<h2虽然现在很简陋，但是我我尽我能力去完善这个网页的
-先分享一些东h2>
+<h2 align="center">虽然现在很简陋，但是我我尽我能力去完善这个网页的
+先分享一些西</h2>
+
 😁😁😁😁😁
 
 *<a href="http://m.imomoe.io/view/189.html" target="_blank">海贼王</a>
