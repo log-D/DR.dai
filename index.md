@@ -17,6 +17,10 @@
 
 *<a href="https://www.baiduwp.com" target="_blank">百度云链接解析不限速</a>
 
+＆<a href="https://mp.qzone.qq.com/u/3493224651?is_famous_space=1&brand_flag=0&g_f=2000000393" target="_blank">表白墙一</a>
+
+＆<a href="https://mp.qzone.qq.com/u/3086822763?is_famous_space=1&brand_flag=0&g_f=2000000393" target="_blank">表白墙二</a>
+
 😏😏😏😏
 
 
