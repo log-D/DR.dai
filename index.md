@@ -11,6 +11,8 @@
 
 *<a href="http://m.imomoe.io/view/7346.html" target="_blank">斗罗大陆资源一</a>
 
+*<a href="http://m.imomoe.io/view/7600.html" target="_blank">一方通行</a>
+
 *<a href="https://kan.jinbaozy.com/m/vodplayhtml/75-1-61.html" target="_blank">斗罗大陆资源二</a>
 
 *<a href="https://kan.jinbaozy.com/m/vodplayhtml/106-1-65.html" target="_blank">天行九歌</a>
